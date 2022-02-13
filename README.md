@@ -1,4 +1,4 @@
-Update your projects automatically from GitHub.
+Keep your clients up to date by updating your projects from GitHub.
 
 ## Installation
 You can easily add [UpdateFromGithub.py](https://github.com/AmirHosseinCV/UpdateFromGithub/blob/main/UpdateFromGithub.py) to your project and use it. But if you want to install it, you can use the following command:
